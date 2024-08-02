@@ -1,22 +1,27 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+If pnpm not installed:
+```bash
+npm i -g pnpm
+```
 
-Clone the repository:
+### Clone the repository:
 
 ```bash
 git clone https://github.com/tjjd4/web3web.git
 cd web3web
 ```
 
-Installation:
+### Installation:
 ```bash
 npm install
 # or
 pnpm install
 ```
 
-Run the development server:
+
+### Run the development server:
 ```bash
 npm run dev
 # or
