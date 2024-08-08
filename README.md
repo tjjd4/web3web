@@ -15,16 +15,12 @@ cd web3web
 
 ### Installation:
 ```bash
-npm install
-# or
 pnpm install
 ```
 
 
 ### Run the development server:
 ```bash
-npm run dev
-# or
 pnpm dev
 ```
 
